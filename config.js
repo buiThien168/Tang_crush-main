@@ -7,7 +7,7 @@ const CONFIG = {
     btnIntro: 'bấm vào đây đi hihi',
     title:'Cần ai đó quan tâm, để ý cái ví của mình đang hết.',
     title:'Bước chân ra đời, sao biết đời hối hả. Sống không tiền thì vất vả vậy thôi!',
-    desc:'Bao nhiêu buồn phiền, có tiền là bay hết cho anh vay 5 lít',
+    desc:'Bao nhiêu buồn phiền, có tiền là bay hết cho anh xin 5 lít',
     // title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     // desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     // btnYes: 'Vẫn cứ là thích anh <33',
